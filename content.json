@@ -1,0 +1,36 @@
+{
+  "work": [
+    {
+      "title": "Luxury Cut & Style",
+      "subtitle": "Precision haircuts and bespoke styling",
+      "image": "assets/work1.jpg"
+    },
+    {
+      "title": "Signature Color",
+      "subtitle": "Rich, long-lasting color and gloss",
+      "image": "assets/work2.jpg"
+    },
+    {
+      "title": "Glam Makeover",
+      "subtitle": "Bridal and event makeup with HD finish",
+      "image": "assets/work3.jpg"
+    }
+  ],
+  "services": [
+    {
+      "title": "Premium Salon Package",
+      "description": "Full salon experience: haircut, color, treatment, and styling. Personalized consultation and premium products.",
+      "price": "Starting at $120",
+      "features": [
+        "Consultation & styling",
+        "Premium products",
+        "Complimentary refreshments"
+      ]
+    }
+  ],
+  "footer": "\u00a9 2025 Beauty Salon \u2014 Website created by Content Ease",
+  "contact": {
+    "phone": "+201033076324",
+    "email": "contentease78@gmail.com"
+  }
+}
